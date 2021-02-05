@@ -1,0 +1,9 @@
+server:
+  port: 17082
+spring:
+  application:
+    name: bms-cbc-saas-portal-server
+  cloud:
+    consul:
+      host: 9.134.54.3
+      port: 15000
